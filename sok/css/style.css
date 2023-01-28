@@ -1,0 +1,96 @@
+/*
+   Dodatni Style Sheet
+   Author: Filip Jovanovic
+   Date:   28.1.2023
+   
+   Filename: styles.css
+*/
+@charset "utf-8";
+
+
+
+/* Main Structural Styles */
+html{
+   background-color: rgb(78, 68, 200);
+   
+}
+body{
+   color: whitesmoke;
+   font-family: Arial, Helvetica, sans-serif;
+   border-top: 5px solid red;
+}
+dt{
+   padding: 10px;
+}
+dl {
+   padding: 10px;
+}
+body footer address{
+   background-color: cadetblue;
+   color: crimson;
+   font-weight: bold;
+   font-family: 'Courier New', Courier, monospace;
+   line-height: 1em;
+   font-size: 1em;
+   text-align: center;
+}
+.article_class06 {
+   margin: 3px;
+   padding-left: 5px;
+}
+
+/* Heading Styles */
+h1{
+   font-weight: 100px;
+   line-height: 1 em;
+   margin-top: 3px;
+   margin-bottom: 3px;
+}
+.h2 {
+   font-size: 1.5em;
+   color:darkgreen;
+}
+
+
+
+
+/* Blockquote Styles */
+blockquote{
+   font-size: 0.8rem;
+   background-color: red;
+   color: rgb(155, 155, 155);
+   padding-top: 5px;
+   padding-bottom: 5px;
+   padding-left: 7px;
+   padding-right: 7px;
+}
+
+
+
+/* Navigation Styles */	
+nav {
+   font-size: 20px;
+}
+nav ul {
+   padding-left: 9px;
+}
+
+
+
+
+/* Paragraph Styles */
+#paragraph_05d{
+   font-size: 0.8em;
+   padding-left: 7px;
+   color: rgb(166, 0, 200);
+}
+p{
+   margin: (4,5,4,5);
+}
+
+
+/* List Styles */
+ul{
+   margin: 5px 5px 0px 5px;
+}
+
